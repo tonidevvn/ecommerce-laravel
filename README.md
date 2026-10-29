@@ -1,8 +1,5 @@
-[![github-follow](https://img.shields.io/github/followers/Prajwal100?label=Follow&logoColor=purple&style=social)](https://github.com/Prajwal100)
-[![GitHub stars](https://img.shields.io/github/stars/Prajwal100/Complete-Ecommerce-in-laravel-10.svg?style=social)](https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Prajwal100/Complete-Ecommerce-in-laravel-10.svg)](https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10/network)
 [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-yellow?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/prajwalrai/support-my-work-complete-laravel-e-commerce-project)
+[![GitHub](https://img.shields.io/badge/GitHub-tonidevvn-blue?logo=github)](https://github.com/tonidevvn)
 
 # 🚀 Complete E-commerce Website in Laravel 10
 
@@ -51,8 +48,8 @@ A full-fledged **eCommerce solution** built on **Laravel 10**, featuring a moder
 ### 🔹 **Step 1: Clone the Repository**
 
 ```sh
-git clone https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10.git
-cd Complete-Ecommerce-in-laravel-10
+git clone https://github.com/tonidevvn/ecommerce-laravel.git
+cd ecommerce-laravel
 ```
 
 ### 🔹 **Step 2: Install Dependencies**
@@ -100,38 +97,6 @@ php artisan serve
 
 ---
 
-## 🤖 Powered by NepVox AI - Complete AI Solution
-
-🚀 **[NepVox AI](https://nepvox.com/)** is a cutting-edge **online AI application** that provides three powerful AI capabilities in one platform:
-
-### 🎙️ **Text-to-Speech (TTS)**
-- Convert any text into natural, human-like voice
-- Multiple languages and voice options
-- Perfect for videos, accessibility, podcasts, and e-learning
-
-### 🗣️ **Speech-to-Text (STT)**
-- Transcribe audio and speech to text with high accuracy
-- Real-time transcription support
-- Ideal for meetings, interviews, and voice notes
-
-### 🎨 **Text-to-Image (TTI)**
-- Generate stunning images from text descriptions
-- AI-powered image creation
-- Creative design and content generation
-
-### ✨ **Key Features:**
-- ✅ **All-in-One Platform**: TTS, STT, and TTI in a single application
-- ✅ **Multiple Languages**: Support for various languages and voices
-- ✅ **API Integration**: Simple API for seamless business integration
-- ✅ **High Quality**: Professional-grade AI technology
-- ✅ **User-Friendly**: Intuitive interface for all skill levels
-
-🎯 **Perfect for:** Content creators, developers, businesses, educators, and anyone looking to leverage AI technology.
-
-🔗 **Try it now:** [Visit NepVox AI](https://nepvox.com/) | [Documentation](https://nepvox.com/)
-
----
-
 ## 📷 Screenshots
 
 ### **Admin Panel**
@@ -145,21 +110,6 @@ php artisan serve
 ### **User Dashboard**
 
 ![User Dashboard](https://user-images.githubusercontent.com/29488275/90719563-7a3d4000-e2d4-11ea-9e6a-56caac13b146.png)
-
----
-
-## 📩 Contact Me
-
-💼 Need a **Full Stack Laravel Developer**? Let's work together!
-
-📧 **Email:** Prajwal.iar@gmail.com
-📲 **WhatsApp:** +977-9818441226
-
-🔗 **[Hire Me on Upwork](https://www.upwork.com/freelancers/~01210bb2575a8c05a9)**
-
-### ☕ Support My Work
-
-If you find this project helpful, consider [buying me a coffee](https://buymeacoffee.com/prajwalrai/support-my-work-complete-laravel-e-commerce-project). Your support helps maintain and improve this project! 🚀
 
 ---
 
